@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Portfolio Website.
 
-You can use the [editor on GitHub](https://github.com/dancinglightning/hananbasheer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
 
-### Markdown
+###### https://vinaysomawat.github.io/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About
+### Skills
+### Projects
+### Work Experience
+### Education
+### Contact
 
-```markdown
-Syntax highlighted code block
+### Footer
+------------------------------------------------------------------
+#### To use the template on your github:
 
-# Header 1
-## Header 2
-### Header 3
+1. Click on `Fork`
+2. Rename your repo `yourgithubpseudo.github.io`
+3. Clone your fork `git clone https://github.com/yourgithubpseudo/yourgithubpseudo.github.io.git`
+4. Modify the `.html` files.
 
-- Bulleted
-- List
+#### To setup the project and contribute on your local machine:
 
-1. Numbered
-2. List
+1. Click on `Fork`.
+2. Go to your fork and `clone` the project to your local machine.
+3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
 
-**Bold** and _Italic_ and `Code` text
+#### To contribute to the project:
 
-[Link](url) and ![Image](src)
-```
+1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+2. Comment on the issue: `Can I work on this?` and get assigned.
+3. Make changes to your fork and send a PR.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### To create a PR:
 
-### Jekyll Themes
+Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dancinglightning/hananbasheer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### To send a PR, follow these rules carefully,   **otherwise your PR will be closed**:
 
-### Support or Contact
+1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
