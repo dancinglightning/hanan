@@ -239,30 +239,26 @@ export default {
 	],
 	education: [
 		{
-			title: "Bachelors in Computer Science and Engineering",
-			duration: "",
-			subtitle: "National Institute of Technology, Warangal",
+			title: "Bachelors of Technology in Aerospace",
+			duration: "4 years",
+			subtitle: "Indian Institute of Technology, Bombay (IIT-B)",
 			details: [
-				"Qualified GATE-2020.",
-				"Active Competitive Programmer with CodeChef Rating 1841*.",
-				"Received 500+ stars and 300+ forks on GitHub projects.",
+				"Qualified JEE Advanced 2020.",
+				"Active Competitive Programmer on LeetCode, CodeChef and CodeForces",
 			],
 			tags: [
 				"Data Structures & Algorithms",
 				"Operating Systems",
-				"Database Management System",
 				"Computer Networks",
-				"Compiler Designing",
-				"Cloud Computing",
 			],
 			icon: "graduation-cap",
 		},
 		{
 			title: "Class 11-12th in Science and Mathematics",
-			duration: "",
-			subtitle: "Board of Secondary Education, Rajasthan",
+			duration: "2 years",
+			subtitle: "Delhi Public School, Navi Mumbai",
 			details: [
-				"Qualified JEE Advanced, Main & BITSAT.",
+				"Qualified JEE MAINS & BITSAT",
 				"Secured 99.5 percentile in Class 12th Boards Examinations.",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics"],
@@ -274,16 +270,16 @@ export default {
 			label: "Dev Profiles",
 			data: [
 				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+					text: "Google Developer Profile",
+					link: "https://developers.google.com/profile/u/dancinglightning",
 				},
 				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
+					link: "https://github.com/dancinglightning",
 				},
 				{
 					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					link: "https://leetcode.com/dancinglightning/",
 				},
 			],
 		},
@@ -298,10 +294,6 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
-				{
-					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-				},
 			],
 		},
 		{
@@ -309,7 +301,7 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
+					link: "https://www.linkedin.com/in/hanan-basheer-936b62200/",
 				},
 				{
 					text: "Twitter",
