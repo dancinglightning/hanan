@@ -304,8 +304,8 @@ export default {
 					link: "https://www.linkedin.com/in/hanan-basheer-936b62200/",
 				},
 				{
-					text: "Twitter",
-					link: "https://twitter.com/thesigmakid",
+					text: "Instagram",
+					link: "https://www.instagram.com/__dancing_lightning__/",
 				},
 				{
 					text: "Buy me a coffee",
