@@ -10,7 +10,7 @@ export default {
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: vinaysomawat40@gmail.com",
+				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: hanubhai2001@gmail.com",
 			],
 		},
 	},
@@ -38,6 +38,36 @@ export default {
 			skillName: "LaTeX",
 			color: "3",
 			percentage: "45",
+		},
+		{
+			title: "Octave",
+			skillName: "OCtave",
+			color: "4",
+			percentage: "40",
+		},
+		{
+			title: "Jupyter Notebook",
+			skillName: "Jupyter Notebook",
+			color: "8",
+			percentage: "55",
+		},
+		{
+			title: "Arduino IDE",
+			skillName: "Arduino IDE",
+			color: "2",
+			percentage: "50",
+		},
+		{
+			title: "Matlab",
+			skillName: "Matlab",
+			color: "1",
+			percentage: "30",
+		},
+		{
+			title: "Django",
+			skillName: "Django",
+			color: "4",
+			percentage: "30",
 		},
 		{
 			title: "Dart",
