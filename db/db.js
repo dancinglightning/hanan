@@ -247,6 +247,7 @@ export default {
 				"Active Competitive Programmer on LeetCode, CodeChef and CodeForces",
 			],
 			tags: [
+				"Aerospace", "Flight Mechanics",
 				"Data Structures & Algorithms",
 				"Operating Systems",
 				"Computer Networks",
@@ -254,14 +255,14 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th in Science and Mathematics",
+			title: "Class 11-12th",
 			duration: "2 years",
 			subtitle: "Delhi Public School, Navi Mumbai",
 			details: [
 				"Qualified JEE MAINS & BITSAT",
 				"Secured 99.5 percentile in Class 12th Boards Examinations.",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Physics", "Chemistry", "Mathematics", "Computer Science"],
 			icon: "book",
 		},
 	],
@@ -316,8 +317,7 @@ export default {
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Vinay Somawat.",
-				"&copy; No Copyrights. Feel free to use this template."
+				"Made with &hearts; by Hanan Basheer."
 			],
 		},
 	],
