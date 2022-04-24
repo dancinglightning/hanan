@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Hanan Basheer. I’m an Aerospace undergrad at IIT Bombay",
+				"I'm Hanan Basheer, an Aerospace undergrad at IIT Bombay",
 				"I'm a Developer & Competitive Programmer. You can often find me pondering over various unsolved and peculiar problems like Reimann Integral, Game of Life......",
 				"I love to play chess, e-Games. Also a sport enthusiast, with likes of Football and Table Tennis.",
 			],
