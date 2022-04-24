@@ -5,7 +5,8 @@ export default {
 				"Hi &#128075;",
 				"I'm Hanan Basheer, an Aerospace undergrad at IIT Bombay",
 				"I'm a Developer & Competitive Programmer. You can often find me pondering over various unsolved and peculiar problems like Reimann Integral, Game of Life......",
-				"I love to play chess, e-Games. Also a sport enthusiast, with likes of Football and Table Tennis.",
+				"Solving mysteries and problem solving are things which I thrive on :p",
+				"I love to play chess, e-Games like Valorant & FIFA. Also a sport enthusiast, with likes of Football (Die-Hard Neymar Fan) and Table Tennis.",
 			],
 		},
 		contact: {
