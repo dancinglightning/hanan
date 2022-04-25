@@ -153,20 +153,20 @@ export default {
 				techStack: ["C++", "Object-Oriented Programming"],
 			},
 			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
+				projectName: "Hybrid ANN-Statistical Model for Robust Stock Market Prediction",
+				image: "images/stockmarket.jpg",
 				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
+					"Python script which predicts Stock market price flow based on GARCH and ANN model.",
+				preview: "https://github.com/dancinglightning/SoC-21-Stock-Market",
+				techStack: ["Stock Market", "ANN", "Python"],
 			},
 			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
+				projectName: "Spanning Tree Protocol",
+				image: "images/spanningtreeprotocol.png",
 				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
+					"Code to automate Spanning tree protocol to generate type of ports to set up a network.",
+				preview: "https://github.com/dancinglightning/IIT-B/tree/main/CS%20224/Spanning-Tree-Protocol",
+				techStack: ["C++", "Networks", "Information Exhange"],
 			},
 		],
 		android: [
