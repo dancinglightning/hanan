@@ -102,71 +102,31 @@ export default {
 		},
 	],
 	projects: {
-		web: [
-			{
-				projectName: "Programming Diaries",
-				image: "images/programmingdiaries.png",
-				summary:
-					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-				preview: "https://programmingdiaries.herokuapp.com/",
-				techStack: [
-					"Django",
-					"SQLite",
-					"Bootstrap",
-					"JavaScript",
-					"Heroku",
-				],
-			},
-			{
-				projectName: "Find Your Bank",
-				image: "images/findyourbank.png",
-				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-			},
-			{
-				projectName: "Web Portfolio",
-				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-			{
-				projectName: "Resume Builder",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-		],
 		software: [
 			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
+				projectName: "Lasso Game Development",
+				image: "images/lassogame.png",
 				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+					"A Lasso game where your objective is to catch falling coins and with multiple variants and game modes.",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
+					"https://github.com/dancinglightning/IIT-B/tree/main/CS%20101",
+				techStack: ["C++", "Object-Oriented Programming"],
 			},
 			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
+				projectName: "Hybrid ANN-Statistical Model for Robust Stock Market Prediction",
+				image: "images/stockmarket.jpg",
 				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
+					"Python script which predicts Stock market price flow based on GARCH and ANN model.",
+				preview: "https://github.com/dancinglightning/SoC-21-Stock-Market",
+				techStack: ["Stock Market", "ANN", "Python"],
 			},
 			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
+				projectName: "Spanning Tree Protocol",
+				image: "images/spanningtreeprotocol.png",
 				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
+					"Code to automate Spanning tree protocol to generate type of ports to set up a network.",
+				preview: "https://github.com/dancinglightning/IIT-B/tree/main/CS%20224/Spanning-Tree-Protocol",
+				techStack: ["C++", "Networks", "Information Exhange"],
 			},
 		],
 		android: [
@@ -187,7 +147,7 @@ export default {
 				techStack: ["JAVA", "XML", "Android"],
 			},
 		],
-		freelance: [
+		tech: [
 			{
 				projectName: "SnylloAir.com",
 				image: "images/snylloair.png",
