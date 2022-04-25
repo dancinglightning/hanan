@@ -144,13 +144,13 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
+				projectName: "Lasso Game Development",
+				image: "images/lassogame.png",
 				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+					"A Lasso game where your objective is to catch falling coins and with multiple variants and game modes.",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
+					"https://github.com/dancinglightning/IIT-B/tree/main/CS%20101",
+				techStack: ["C++", "Object-Oriented Programming"],
 			},
 			{
 				projectName: "WhatsApp-Bot",
