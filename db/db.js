@@ -187,7 +187,7 @@ export default {
 				techStack: ["JAVA", "XML", "Android"],
 			},
 		],
-		tech: [
+		freelance: [
 			{
 				projectName: "SnylloAir.com",
 				image: "images/snylloair.png",
