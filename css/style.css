@@ -15,7 +15,7 @@
 }
 
 .dark-mode {
-	background-color: #5534A5;
+	background-color: #3E3C3C;
 	color: white;
   }
 
@@ -30,7 +30,7 @@ body {
 	font-weight: 400;
 	font-size: 15px;
 	line-height: 1.8;
-	color: #5534A5;
+	color: #3E3C3C;
 }
 @media screen and (max-width: 992px) {
 	body {
@@ -265,7 +265,7 @@ figure figcaption {
 }
 #colorlib-aside #colorlib-main-menu ul li a:hover {
 	text-decoration: none;
-	color: #5534A5;
+	color: #3E3C3C;
 }
 #colorlib-aside #colorlib-main-menu ul li a:hover:after {
 	visibility: visible;
@@ -324,7 +324,7 @@ figure figcaption {
 }
 #rcorners2 {
 	border-radius: 15px;
-	background: #5534A5;
+	background: #3E3C3C;
 	padding: 20px;
 	width: 50%;
 	height: 40px;
@@ -338,7 +338,7 @@ figure figcaption {
 #colorlib-aside .colorlib-footer ul li a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #5534A5;
+	color: #3E3C3C;
 }
 
 .container-wrap {
@@ -439,7 +439,7 @@ figure figcaption {
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
 	margin: 0;
 	padding: 0;
-	color: #5534A5;
+	color: #3E3C3C;
 	font-family: "Playfair Display", Georgia, serif;
 }
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
@@ -582,7 +582,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 #colorlib-footer2 {
-	background: #5534A5;
+	background: #3E3C3C;
 	width: 100%;
 	padding-bottom: 3em;
 	padding-top: 2em;
@@ -2112,7 +2112,7 @@ ul {
 
 span {
 	font-family: "Montserrat", sans-serif;
-	/* color: #5534A5; */
+	/* color: #3E3C3C; */
 	display: inline-block; /* change the display type           */
 	margin: 0 5px;
 }
@@ -2225,7 +2225,7 @@ span {
 .copyright-text p {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	color: #5534A5;
+	color: #3E3C3C;
 }
 
 .readmore {
