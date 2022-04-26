@@ -209,6 +209,7 @@ figure figcaption {
 }
 #colorlib-aside #colorlib-main-menu {
 	display: block;
+	color: #FFFFFF;
 	width: 100%;
 }
 #colorlib-aside #colorlib-main-menu .collapse {
