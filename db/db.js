@@ -252,8 +252,7 @@ export default {
 			duration: "4 years",
 			subtitle: "Indian Institute of Technology, Bombay (IIT-B)",
 			details: [
-				"Qualified JEE Advanced 2020.",
-				"Active Competitive Programmer on LeetCode, CodeChef and CodeForces",
+				"Completed B.Tech in Aerospace",
 			],
 			tags: [
 				"Aerospace", "Flight Mechanics",
@@ -268,7 +267,7 @@ export default {
 			duration: "2 years",
 			subtitle: "Delhi Public School, Navi Mumbai",
 			details: [
-				"Qualified JEE MAINS & BITSAT",
+				"Qualified JEE Advanced, JEE MAINS & BITSAT",
 				"Secured 99.5 percentile in Class 12th Boards Examinations.",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics", "Computer Science"],
