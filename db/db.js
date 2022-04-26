@@ -171,20 +171,28 @@ export default {
 		],
 		android: [
 			{
-				projectName: "NITW-CSE",
-				image: "images/nitwcse.jpg",
+				projectName: "Mobile Calculator Application",
+				image: "images/calculator.jpg",
 				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
+					"Successfully created a completely working Calculator app using Dart on Flutter and Android Studio.",
+				preview: "https://github.com/dancinglightning/20B030018_IntroToAppDev/tree/main/Week%201",
+				techStack: ["DART", "Flutter", "Android Studio"],
 			},
 			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
+				projectName: "Quiz Application",
+				image: "images/quiz.png",
 				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
+					"A quiz application with database of multiple True/False questions based on daily activities as well as general knowledge.",
+				preview: "https://github.com/dancinglightning/20B030018_IntroToAppDev/tree/main/Week%202",
+				techStack: ["DART", "Flutter", "Android Studio"],
+			},
+			{
+				projectName: "TO-DO Application",
+				image: "images/to-do.jpg",
+				summary:
+					"A TO-DO list app with integrated Google Firebase authentication to the app for login and security purpose.",
+				preview: "https://github.com/dancinglightning/20B030018_IntroToAppDev/tree/main/Week%204",
+				techStack: ["DART", "Flutter", "Android Studio", "Google Firebase"],
 			},
 		],
 		freelance: [
