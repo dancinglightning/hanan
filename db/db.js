@@ -144,29 +144,29 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Lasso Game Development",
-				image: "images/lassogame.png",
+				projectName: "Pizza Ordering ChatBot",
+				image: "images/pizzaorderchatbot.png",
 				summary:
-					"A Lasso game where your objective is to catch falling coins and with multiple variants and game modes.",
+					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
 				preview:
-					"https://github.com/dancinglightning/IIT-B/tree/main/CS%20101",
-				techStack: ["C++", "Object-Oriented Programming"],
+					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+				techStack: ["Dailogflow", "Firebase"],
 			},
 			{
-				projectName: "Hybrid ANN-Statistical Model for Robust Stock Market Prediction",
-				image: "images/stockmarket.jpg",
+				projectName: "WhatsApp-Bot",
+				image: "images/whatsappbot.jpg",
 				summary:
-					"Python script which predicts Stock market price flow based on GARCH and ANN model.",
-				preview: "https://github.com/dancinglightning/SoC-21-Stock-Market",
-				techStack: ["Stock Market", "ANN", "Python"],
+					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
+				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
 			{
-				projectName: "Spanning Tree Protocol",
-				image: "images/spanningtreeprotocol.png",
+				projectName: "Bill Generator",
+				image: "images/billgenerator.png",
 				summary:
-					"Code to automate Spanning tree protocol to generate type of ports to set up a network.",
-				preview: "https://github.com/dancinglightning/IIT-B/tree/main/CS%20224/Spanning-Tree-Protocol",
-				techStack: ["C++", "Networks", "Information Exhange"],
+					"GUI to transfer data to excel sheets and generate bills on the local shops.",
+				preview: "https://github.com/vinaysomawat/Bill-Generator",
+				techStack: ["Tkinter", "Openxlpy", "Python"],
 			},
 		],
 		android: [
