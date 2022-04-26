@@ -180,7 +180,7 @@ export default {
 			},
 			{
 				projectName: "Quiz Application",
-				image: "images/quiz.png",
+				image: "images/quiz.jpg",
 				summary:
 					"A quiz application with database of multiple True/False questions based on daily activities as well as general knowledge.",
 				preview: "https://github.com/dancinglightning/20B030018_IntroToAppDev/tree/main/Week%202",
