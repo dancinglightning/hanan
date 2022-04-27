@@ -203,7 +203,7 @@ export default {
 			subtitle: "Controls Engineer",
 			details: [
 				"Controls engineer of Team Sedrica which is going to participate in IGVC in upcoming year",
-				"Working on biometric eKYCs, CDM card and onboarding retailers flows.",
+				"Designing code for implementation of NMPC time independent algorithm.",
 			],
 			tags: [
 				"JavaScript",
