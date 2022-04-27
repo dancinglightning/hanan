@@ -303,6 +303,10 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
+				{
+					text: "My Resume",
+					link: "https://drive.google.com/file/d/12_dXYiWSvps-nybG2gwhqLIfm82WVTvF/view?usp=sharing",
+				},
 			],
 		},
 		{
