@@ -199,8 +199,8 @@ export default {
 	experience: [
 		{
 			title: "Unmesh Mashruwala Innovation Cell",
-			duration: "June 2020 - Present",
-			subtitle: "Software Engineer, SDE Intern",
+			duration: "September 2021 - Present",
+			subtitle: "Controls Engineer",
 			details: [
 				"Supporting both frontend & backend teams for AEPS, DMT transaction, CMS Service, gateways.",
 				"Working on biometric eKYCs, CDM card and onboarding retailers flows.",
