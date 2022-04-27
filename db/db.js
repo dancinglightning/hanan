@@ -264,12 +264,12 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th",
+			title: "High School",
 			duration: "2 years",
 			subtitle: "Delhi Public School, Navi Mumbai",
 			details: [
 				"Qualified JEE Advanced, JEE MAINS & BITSAT",
-				"Secured 99.5 percentile in Class 12th Boards Examinations.",
+				"Secured 94.6 percentile in Class 12th Boards Examinations.",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics", "Computer Science"],
 			icon: "book",
