@@ -202,7 +202,7 @@ export default {
 			duration: "September 2021 - Present",
 			subtitle: "Controls Engineer",
 			details: [
-				"Supporting both frontend & backend teams for AEPS, DMT transaction, CMS Service, gateways.",
+				"Controls engineer of Team Sedrica which is going to participate in IGVC in upcoming year",
 				"Working on biometric eKYCs, CDM card and onboarding retailers flows.",
 			],
 			tags: [
