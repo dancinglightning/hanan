@@ -248,14 +248,15 @@ export default {
 	],
 	education: [
 		{
-			title: "Bachelors of Technology in Aerospace",
+			title: "Bachelors of Technology in Aerospace with Minors in Computer Science",
 			duration: "4 years",
 			subtitle: "Indian Institute of Technology, Bombay (IIT-B)",
 			details: [
-				"Completed B.Tech in Aerospace",
+				"Completing B.Tech in Aerospace (2/4 years completed)",
+				"Completing Minors in Computer Science (2/5 courses done)",
 			],
 			tags: [
-				"Aerospace", "Flight Mechanics",
+				"Aerospace", "Aeronautics",
 				"Data Structures & Algorithms",
 				"Operating Systems",
 				"Computer Networks",
