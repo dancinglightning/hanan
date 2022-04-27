@@ -190,7 +190,7 @@ export default {
 				projectName: "Hanculus - Discrete Calculus",
 				image: "images/hanculus.jpg",
 				summary:
-					"Developed a paper on Discrete form of Calculus in attempt to solve Reimann Integral Problem and was later disclosed as field of complex maths known as finite differences by Mike Giles, Professor of Scientific Computing Head of Department of Mathematical Institute University of Oxford.",
+					"Developed a paper on Discrete form of Calculus in attempt to solve Reimann Integral Problem and responded by Mike Giles, Professor of Scientific Computing Head of Department of Mathematical Institute University of Oxford.",
 				preview: "https://drive.google.com/drive/u/0/folders/1T8PMh67d3SwjMK7Q5ztCIk1dz_E7OeK7",
 				techStack: ["Calculus", "Math"],
 			},
