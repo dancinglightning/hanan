@@ -549,13 +549,24 @@ body.offcanvas .colorlib-nav-toggle {
 	padding: 0;
 }
 
-.colorlib-experience,
-.colorlib-skills,
-.colorlib-projects,
-.colorlib-education,
-.colorlib-blogs,
-.colorlib-work,
-.colorlib-about,
+.colorlib-experience{
+	color: #fff;
+}
+.colorlib-skills{
+	color: #fff;
+}
+.colorlib-projects{
+	color: #fff;
+}
+.colorlib-education{
+	color: #fff;
+}
+.colorlib-work{
+	color: #fff;
+}
+.colorlib-about{
+	color: #fff;
+}
 .colorlib-installation,
 .colorlib-services,
 .colorlib-footer,
