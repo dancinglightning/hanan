@@ -100,6 +100,12 @@ export default {
 			color: "5",
 			percentage: "80",
 		},
+		{
+			title: "Ansys",
+			skillName: "Ansys",
+			color: "6",
+			percentage: "30",
+		},
 	],
 	projects: {
 		web: [
