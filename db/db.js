@@ -336,7 +336,7 @@ export default {
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Hanan Basheer."
+				"Made with ❤️ by Hanan Basheer."
 			],
 		},
 	],
