@@ -110,42 +110,26 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Programming Diaries",
-				image: "images/programmingdiaries.png",
+				projectName: "Hand of God",
+				image: "images/hand.jpg",
 				summary:
-					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-				preview: "https://programmingdiaries.herokuapp.com/",
+					"Developed a controller glove which can be used to control daily life appliances as well as gadgets with IoT integrations. It was the winning project of Institute Technical Summer Project (ITSP) '21.",
+				preview: "https://github.com/dancinglightning/ITSP-21_HAND-OF-GOD",
 				techStack: [
-					"Django",
-					"SQLite",
-					"Bootstrap",
-					"JavaScript",
-					"Heroku",
+					"Python",
+					"C++",
+					"Arduino IDE",
+					"String Sensors",
+					"Tkinter",
 				],
 			},
 			{
-				projectName: "Find Your Bank",
-				image: "images/findyourbank.png",
+				projectName: "Sedrica - Self Driving Car",
+				image: "images/sedrica.png",
 				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-			},
-			{
-				projectName: "Web Portfolio",
-				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-			{
-				projectName: "Resume Builder",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
+					"Developed and implemented control code for self-driving car, Sedrica, which is one of the key projects of Innovation Cell of IIT-B. Control code basically invokes commands to various control units of car as it moves tracing its route. We participate in IGVC which happens in Oakland University in Michigan, USA every year.",
+				preview: "https://github.com/dancinglightning/IGVC_2022_Controls",
+				techStack: ["Python", "ROS", "Gazebo", "Self-driving Car"],
 			},
 		],
 		software: [
