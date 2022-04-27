@@ -219,6 +219,7 @@ figure figcaption {
 	text-align: center;
 	margin: 0;
 	padding: 0;
+	color: #FFFFFF;
 }
 @media screen and (max-width: 768px) {
 	#colorlib-aside #colorlib-main-menu ul {
