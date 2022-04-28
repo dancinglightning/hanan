@@ -213,18 +213,7 @@ export default {
 				"Control Theory",
 				"SysCon"
 			],
-			icon: "qrcode",
-		},
-		{
-			title: "ThinkPedia LLP",
-			duration: "May 2019 - June 2019",
-			subtitle: "SDE Intern",
-			details: [
-				"Worked as a full stack developer to support tech team.",
-				"Developed a customer Web Application from scratch for social media management.",
-			],
-			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-			icon: "group",
+			icon: "🚗",
 		},
 	],
 	education: [
