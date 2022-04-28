@@ -213,7 +213,7 @@ export default {
 				"Control Theory",
 				"SysCon"
 			],
-			icon: "🚗",
+			icon: "fas fa-car",
 		},
 	],
 	education: [
