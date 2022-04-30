@@ -106,6 +106,12 @@ export default {
 			color: "6",
 			percentage: "30",
 		},
+		{
+			title: "Excel",
+			skillName: "Excel",
+			color: "7",
+			percentage: "80",
+		},
 	],
 	projects: {
 		web: [
