@@ -15,6 +15,7 @@ export default {
 			],
 		},
 	},
+	specifics: {
 	skills: [
 		{
 			title: "Python",
@@ -205,7 +206,25 @@ export default {
 	experience: [
 		{
 			title: "Unmesh Mashruwala Innovation Cell",
-			duration: "September 2021 - Present",
+			duration: "May 2022 - Present",
+			subtitle: "Sedrica Controls Subsystem lead & UMIC manager",
+			details: [
+				"Promoted to Sedrica Controls Subsystem Lead and UMIC manager.",
+			],
+			tags: [
+				"Managment",
+				"ROS",
+				"Python",
+				"C++",
+				"Gazebo",
+				"Control Theory",
+				"SysCon"
+			],
+			icon: "fa fa-group",
+		},
+		{
+			title: "Unmesh Mashruwala Innovation Cell",
+			duration: "September 2021 - May 2022",
 			subtitle: "Controls Engineer",
 			details: [
 				"Controls engineer of Team Sedrica which is going to participate in IGVC in upcoming year.",
