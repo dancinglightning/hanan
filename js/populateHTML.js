@@ -307,7 +307,7 @@ function populateLinks(items, id) {
 }
 
 populateSkills(data.skills, "skills");
-populateSpecifics(data.skills, "specifics");
+populateSpecifics(data.specifics, "specifics");
 
 fetchBlogsFromMedium();
 
