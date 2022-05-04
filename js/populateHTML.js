@@ -13,11 +13,11 @@ function fetchBlogsFromMedium() {
 		});
 }
 
-function populateSkills(items, id) {
-	let skillsTag = document.getElementById(id);
+function populateSpecifics(items, id) {
+	let specificsTag = document.getElementById(id);
 	for (let i = 0; i < items.length; i++) {
 		let h3 = document.createElement("h3");
-		h3.innerHTML = items[i].skillName;
+		h3.innerHTML = items[i].specificName;
 
 		let divProgress = document.createElement("div");
 		divProgress.className = "progress";
@@ -36,9 +36,61 @@ function populateSkills(items, id) {
 		divAnimateBox.className = "col-md-6 animate-box";
 		divAnimateBox.append(divProgressWrap);
 
-		skillsTag.append(divAnimateBox);
+		specificsTag.append(divAnimateBox);
 	}
 }
+
+function populateLinks(items, id) {
+	let footer = document.getElementById(id);
+
+	for (let i = 0; i < items.length; i++) {
+		if (items[i].label != "copyright-text") {
+			let span = document.createElement("span");
+			span.className = "col";
+
+			let p = document.createElement("p");
+			p.className = "col-title";
+			p.innerHTML = items[i].label;
+			span.append(p);
+
+			let nav = document.createElement("nav");
+			nav.className = "col-list";
+
+			let ul = document.createElement("ul");
+			for (let j = 0; j < items[i].data.length; j++) {
+				let li = document.createElement("li");
+				let a = document.createElement("a");
+				if (items[i].data[j].link) {
+					a.href = items[i].data[j].link;
+					a.target = "_blank";
+				}
+				if (items[i].data[j].func) {
+					a.setAttribute("onclick", items[i].data[j].func);
+				}
+				a.innerHTML = items[i].data[j].text;
+
+				li.append(a);
+				ul.append(li);
+			}
+			nav.append(ul);
+			span.append(nav);
+			footer.append(span);
+		}
+
+		if (items[i].label == "copyright-text") {
+			let div = document.createElement("div");
+			div.className = "copyright-text no-print";
+			for (let k = 0; k < items[i].data.length; k++) {
+				let p = document.createElement("p");
+				p.innerHTML = items[i].data[k];
+				div.append(p);
+			}
+			footer.append(div);
+		}
+	}
+}
+
+populateSkills(data.skills, "skills");
 
 function populateProjects(items, id) {
 	let projectdesign = document.getElementById(id);
@@ -279,7 +331,8 @@ function populateLinks(items, id) {
 	}
 }
 
-populateSkills(data.skills, "skills");
+populateSpecifics(data.specifics, "specifics");
+
 
 fetchBlogsFromMedium();
 
