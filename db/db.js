@@ -6,7 +6,7 @@ export default {
 				"I'm Hanan Basheer, an Aerospace undergrad at IIT Bombay",
 				"I'm a Developer & Competitive Programmer. You can often find me pondering over various unsolved and peculiar problems like Reimann Integral, Game of Life......",
 				"Solving mysteries and problem solving are things which I thrive on :p",
-				"I love to play chess, e-Games like Valorant & FIFA. Also a sport enthusiast, with likes of Football (Die-Hard Neymar Fan) and Table Tennis.",
+				"I love to play chess, e-Games like Valorant & FIFA. Also a sport enthusiast, with likes of Football (Die-Hard Neymar Fan) and Table Tennis. Extremely passionate about swimming as well.",
 			],
 		},
 		contact: {
@@ -361,7 +361,7 @@ export default {
 			subtitle: "Delhi Public School, Navi Mumbai",
 			details: [
 				"Qualified JEE Advanced, JEE MAINS & BITSAT",
-				"Secured 94.6 percentile in Class 12th Boards Examinations.",
+				"Secured 94.6 percentage in Class 12th Boards Examinations.",
 			],
 			tags: ["Physics", "Chemistry", "Mathematics", "Computer Science"],
 			icon: "book",
