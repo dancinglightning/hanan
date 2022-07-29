@@ -40,33 +40,6 @@ function populateSkills(items, id) {
 	}
 }
 
-function populateSpecifics(items, id) {
-	let specificsTag = document.getElementById(id);
-	for (let i = 0; i < items.length; i++) {
-		let h3 = document.createElement("h3");
-		h3.innerHTML = items[i].specificName;
-
-		let divProgress = document.createElement("div");
-		divProgress.className = "progress";
-
-		let divProgressBar = document.createElement("div");
-		divProgressBar.className = "progress-bar color-" + items[i].color;
-		divProgressBar.style = "width:" + items[i].percentage + "%";
-		divProgress.append(divProgressBar);
-
-		let divProgressWrap = document.createElement("div");
-		divProgressWrap.className = "progress-wrap";
-		divProgressWrap.append(h3);
-		divProgressWrap.append(divProgress);
-
-		let divAnimateBox = document.createElement("div");
-		divAnimateBox.className = "col-md-6 animate-box";
-		divAnimateBox.append(divProgressWrap);
-
-		specificsTag.append(divAnimateBox);
-	}
-}
-
 function populateProjects(items, id) {
 	let projectdesign = document.getElementById(id);
 	for (let i = 0; i < items.length; i++) {
