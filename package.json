@@ -1,13 +1,13 @@
 {
-  "name": "website",
+  "name": "jekyll-theme-minimal-resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple Jekyll theme for a minimal resume website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hanan Basheer <dancinglightning2001@gmail.com>",
-  "license": "IIT",
+  "author": "Mauricio Urraco <mauriurraco@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.6",
     "gulp": "^4.0.2",
